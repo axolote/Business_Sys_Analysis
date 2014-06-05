@@ -22,6 +22,6 @@
 
 
 ### Underlying Competencies
-    > Analytical thinking, problem solving, ethics, communication/interaction skills, software application knowledge. 
+    Analytical thinking, problem solving, ethics, communication/interaction skills, software application knowledge. 
 
 
